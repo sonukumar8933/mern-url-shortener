@@ -1,0 +1,9 @@
+# Build outputs
+build/
+dist/
+
+# Coverage
+coverage/
+
+# ESLint cache
+.eslintcache
